@@ -1,5 +1,5 @@
-# Falcons Defensive Pressure Imapct 2023-2024 SEASON
-# 🏈 Atlanta Falcons Defensive Pressure Impact (2023–24)
+# Falcons Defensive Analysis Project
+# 🏈 Atlanta Falcons Defensive Pressure Impact 2023–24 SEASON
 
 ## 📊 Project Overview
 This project analyzes how defensive pressure, sacks and QB hits affect the opposing quarterback's performance and offensive efficiency for the **Atlanta Falcons** during the 2023–2024 NFL seasons.  
